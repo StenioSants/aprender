@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "357156975365",
+    "firebase_url": "https://aprender-ad568-default-rtdb.firebaseio.com",
+    "project_id": "aprender-ad568",
+    "storage_bucket": "aprender-ad568.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357156975365:android:4e1b47e0885c0b07c33d6c",
+        "android_client_info": {
+          "package_name": "com.example.aprender"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsaJMR5NVTM4vXsEoZfO9lEDAa80oYFgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357156975365:android:4480f61bade56459c33d6c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsaJMR5NVTM4vXsEoZfO9lEDAa80oYFgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
